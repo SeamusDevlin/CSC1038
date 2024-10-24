@@ -1,4 +1,4 @@
-Name: Seamus Devlin 
+Name: Seamus Devlin \n
 Module Name: CSC1038 System Programming
 DCU COMSCI YEAR2 
 
